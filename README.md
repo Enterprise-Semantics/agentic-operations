@@ -7,7 +7,7 @@
 
 - Name: Agentic Operations
 - ID: ES:CONCEPT:agentic-operations
-- Tranche: ES-014
+- Tranche: ES-007
 - Semantic Version: 0.6.0
 - Base Concept: ES:CONCEPT:operations
 - Status: Accepted
